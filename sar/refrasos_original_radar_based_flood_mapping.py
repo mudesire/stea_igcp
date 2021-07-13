@@ -319,8 +319,8 @@ This section allows interactive data access and download from the <a href="https
 #################### USER INPUT ####################
 ####################################################
 
-Username      = 'sgacmuh'              #@param {type:"string"}
-Password      = 'ESA-4309&*'              #@param {type:"string"}
+Username      = ''              #@param {type:"string"}
+Password      = ''              #@param {type:"string"}
 SensingPeriod_Start  = '2020-08-01'     #@param {type:"date"}
 SensingPeriod_Stop   = '2020-08-15'     #@param {type:"date"}
 
